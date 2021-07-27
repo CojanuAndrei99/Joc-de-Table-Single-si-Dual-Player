@@ -1,0 +1,87 @@
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\bin\Debug\proiect atestat.exe.config
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\bin\Debug\proiect atestat.exe
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\bin\Debug\proiect atestat.pdb
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect atestat.csprojResolveAssemblyReference.cache
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect atestat.csproj.CoreCompileInputs.cache
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect atestat.exe
+C:\Users\andre\AppData\Local\Temporary Projects\proiect atestat\obj\Debug\proiect atestat.pdb
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\bin\Debug\proiect atestat.exe.config
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\bin\Debug\proiect atestat.exe
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\bin\Debug\proiect atestat.pdb
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.exe
+C:\Users\andre\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.pdb
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\bin\Debug\proiect atestat.exe.config
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\bin\Debug\proiect atestat.exe
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\bin\Debug\proiect atestat.pdb
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csprojResolveAssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.exe
+C:\Users\andre\OneDrive\Desktop\New folder\proiect atestat\proiect atestat\obj\Debug\proiect atestat.pdb
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\bin\Debug\proiect atestat.exe.config
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\bin\Debug\proiect atestat.exe
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\bin\Debug\proiect atestat.pdb
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect atestat.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect atestat.exe
+C:\Users\andre\Desktop\proiect atestat\proiect atestat\obj\Debug\proiect atestat.pdb
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe.config
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.pdb
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.exe
+C:\Users\andre\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.pdb
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe.config
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.pdb
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csprojResolveAssemblyReference.cache
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.CoreCompileInputs.cache
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.exe
+C:\Users\Andrei Cojanu\Desktop\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.pdb
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe.config
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.pdb
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csprojAssemblyReference.cache
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Form1.resources
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.exe
+D:\Scoala\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe.config
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csprojAssemblyReference.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.pdb
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe.config
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.pdb
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csprojAssemblyReference.cache
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.csproj.GenerateResource.cache
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.exe
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.pdb
+D:\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Joc_de_Table.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Joc_de_Table.resources

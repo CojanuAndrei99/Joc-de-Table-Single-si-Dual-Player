@@ -1,0 +1,46 @@
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe.config
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\bin\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Joc_de_Table.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect_atestat.Properties.Resources.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\Joc de Table.csproj.GenerateResource.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\proiect atestat\obj\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe.config
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csprojAssemblyReference.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\obj\Debug\joc_table.Joc_de_Table.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\obj\Debug\proiect_atestat.Properties.Resources.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csproj.GenerateResource.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect atestat Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe.config
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.pdb
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csprojAssemblyReference.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\obj\Debug\joc_table.Joc_de_Table.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\obj\Debug\proiect_atestat.Properties.Resources.resources
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csproj.GenerateResource.cache
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.exe
+D:\Facultate\An 2 Sem 1\Proiect Individual\proiect individual Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.pdb
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe.config
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.pdb
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csprojAssemblyReference.cache
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\joc_table.Joc_de_Table.resources
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\proiect_atestat.Properties.Resources.resources
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csproj.GenerateResource.cache
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csproj.CoreCompileInputs.cache
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.exe
+F:\Cursuri\An 2 Sem 1\Proiect Individual\proiect Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.pdb
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe.config
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.exe
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\bin\Debug\proiect atestat.pdb
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csprojAssemblyReference.cache
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\joc_table.Joc_de_Table.resources
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\proiect_atestat.Properties.Resources.resources
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csproj.GenerateResource.cache
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\Joc de Table.csproj.CoreCompileInputs.cache
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.exe
+F:\Cursuri\An 3 sem 2\.NET\proiect Cojanu Andrei\Joc de Table\obj\Debug\proiect atestat.pdb
